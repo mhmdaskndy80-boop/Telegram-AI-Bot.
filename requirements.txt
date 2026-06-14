@@ -1,0 +1,3 @@
+python-telegram-bot
+g4f
+requests
